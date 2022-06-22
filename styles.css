@@ -1,0 +1,33 @@
+.grid{
+    margin-left: 420px;
+    width: 612px;
+    height: 612px;
+    display: flex;
+    flex-wrap: wrap;
+
+}
+
+.square{
+    height: 200px;
+    width: 200px;
+    border: solid black 2px;
+    background-color: white;
+}
+
+body{
+    text-align: center;
+    background-color: aquamarine;
+}
+.headline{
+    text-align: center;
+    background-color: blueviolet;
+    color:red;
+}
+
+.mole{
+    background-color: blue;
+}
+
+button{
+    width: 300px;
+}
